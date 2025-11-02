@@ -1,6 +1,14 @@
 - 👋 Hi, I’m @sriragh-karat
-- 👀 I’m interested in Rust, C, C++, Python, RDMA, AI, Web3
-- 🌱 I’m currently learning async Rust 
+- 👀 I’m interested in
+  -  embedded systems
+  -  Rust
+  -  C
+  -  computer networks
+  -  power
+  -  AI
+  -  ARM architecture
+  -  RISC-V architecture
+- 🌱 I’m currently working on some projects related to Embassy in M55 ARM microcontrollers
 - 📫 How to reach me sriragh.karat@gmail.com
 
 <!---
